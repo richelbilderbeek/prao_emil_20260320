@@ -10,7 +10,7 @@ In the hallways, take the stairs down.
 
 > Enter at entrance C11. In the hallways, take the stairs down
 
-**Note from Roza: you could also go to the second floor and go there**.
+**Note from Emil: you could also go to the second floor and go there**.
 
 In the basement, turn right and follow the long corridor
 until the first square. There, take the person elevator

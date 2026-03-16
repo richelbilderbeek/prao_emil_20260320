@@ -12,7 +12,7 @@ some cases, can be reused in other or future classes, which helps save teachersâ
 
 Reference|Findings
 ---------|----------------------
-`[1]`    |For Roza
+`[1]`    |For Emil
 `[2]`    |100% (31 out of 31 students) liked recordings
 `[2]`    |0% (0 out of 31 students) actually watched the recordings for over a minute
 

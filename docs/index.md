@@ -1,4 +1,4 @@
-# PRAO of Roza
+# PRAO of Emil
 
 - When: Wednesday November 26th 2025 9:00-16:00 (see [schedule](schedule.md))
 - Where in Uppsala: Biomedical Center, Husargatan:
