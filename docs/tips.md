@@ -38,3 +38,7 @@
 
 [Max](https://github.com/richelbilderbeek/prao_max_20251121)
 (with some spelling adaptions)
+
+> Dont be shy to ask questions and dont have any distractions
+
+[Roza](https://github.com/richelbilderbeek/prao_roza_20251126)

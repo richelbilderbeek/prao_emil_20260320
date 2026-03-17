@@ -5,11 +5,11 @@ The office has room number D5:514c and can be found
 
 To reach my office, enter BMC at entrance C11:
 
-![BMC entrance C11](c11_view.png)
+![BMC entrance C11](images/c11_view.png)
 
 BMC has another entrance (see below). Use C11.
 
-![BMC other entrance](busstop_view_annotated.png)
+![BMC other entrance](images/busstop_view_annotated.png)
 
 After entering BMC entrance C11,
 in the hallways, take the stairs down.
