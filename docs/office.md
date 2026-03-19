@@ -27,4 +27,5 @@ at the wall of the staircase.
 > turn right and follow the loooong corridor until the third 'square'
 > Take the elevator or stairs to floor 5.
 
-At the fifth floor, wait at the chairs that are directly in front of you.
+When arriving at the fifth floor, there are four easy chairs.
+We will meet there :-)

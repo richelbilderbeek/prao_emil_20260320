@@ -1,5 +1,7 @@
 # Tips from former students
 
+Tips from former students, with spelling errors corrected.
+
 > Stay calm and focused and you will get it done, even if it feels stressful
 > you'll get it done in the end. Remember the goal of a PRAO.
 > The start is the hardest, it gets easier.
@@ -32,13 +34,12 @@
 
 [Olle](https://github.com/richelbilderbeek/prao_olle_20251112)
 
-> PLEASE aks questions when you don't understand.
+> PLEASE ask questions when you don't understand.
 > Don't ask the stupid AI, instead ask the smart human who is next to you
 > at almost all the time: he knows better than AI trust me ;)
 
 [Max](https://github.com/richelbilderbeek/prao_max_20251121)
-(with some spelling adaptions)
 
-> Dont be shy to ask questions and dont have any distractions
+> Don't be shy to ask questions and don't have any distractions
 
 [Roza](https://github.com/richelbilderbeek/prao_roza_20251126)
