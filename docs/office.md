@@ -20,12 +20,12 @@ in the hallways, take the stairs down.
 
 In the basement, turn right and follow the long corridor
 until the third square. You will see 'C5' painted in huge letters
-at the wall of the staircase.
+at the wall of the staircase. Take the elevator or stairs to floor 5.
 
 ![BMC basement route](images/bmc_floor_k1_with_route.png)
 
 > turn right and follow the loooong corridor until the third 'square'
 > Take the elevator or stairs to floor 5.
 
-When arriving at the fifth floor, there are four easy chairs.
+When arriving at floor 5, there are four easy chairs.
 We will meet there :-)
