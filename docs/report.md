@@ -21,3 +21,6 @@ Find out why the tests fail. Do not touch the tests.
 Fix the code. If all tests pass, you have succeeded.
 
 ## Steps
+First we got the code in Posit Cloud.
+We ran the code and found the error; the scoreto was looking at the wrong place in the website it tried to get the dates from.
+I tried fixing it by changing where it looked in the website via the html elements, i got it to detect the right dates, but i still got the same error.
